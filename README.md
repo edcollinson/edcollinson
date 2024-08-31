@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edcollinson
 - 👀 I’m interested in Networking and System Integration
-- 🌱 I’m currently learning C++ (Kill me)
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
